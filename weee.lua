@@ -1,4 +1,4 @@
-      -- local function v0()
+                                                               DeadRails.lua                                                                                       0000770 0023746 0001777 00000170244 15010012515 010351  0                                                                                                    ustar                                                                                                                                                                                                                                                          -- local function v0()
 -- 	warn("❌ This script must only be executed from the offical NoxHub loader");
 -- 	return;
 -- end
@@ -6006,4 +6006,4 @@ while v109 do
 			v108:Wait();
 		end
 	end
-end     
+end                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
