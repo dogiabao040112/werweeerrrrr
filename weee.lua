@@ -1,4 +1,4 @@
- -- local function v0()
+ local function v0()
 -- 	warn("❌ This script must only be executed from the offical NoxHub loader");
 -- 	return;
 -- end
